@@ -17,7 +17,7 @@
 
 ## 技术选型
 
-![image-20220707153707966](https://yvling-typora-image-1257337367.cos.ap-nanjing.myqcloud.com/typora/image-20220707153707966.png)
+![image-20220707222842872](https://yvling-typora-image-1257337367.cos.ap-nanjing.myqcloud.com/typora/image-20220707222842872.png)
 
 
 
